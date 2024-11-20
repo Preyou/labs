@@ -1,4 +1,5 @@
 {
+	"name": "labs",
 	"private": true,
 	"scripts": {
 		"format": "prettier --write ."
